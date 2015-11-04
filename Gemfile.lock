@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    infusionsoft (1.1.9)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  infusionsoft
+
+BUNDLED WITH
+   1.10.6
